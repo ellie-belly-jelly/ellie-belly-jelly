@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Ellie Dash
-- 👀 I’m interested in Music and Coding
-- 🌱 I’m currently learning Java
-- 📫 How to reach me ~ mail me in elliedash5@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: mentally unstable
+Hi, I’m Aheli Das 👋  
+
+🔹 Passionate about clean code, scalable systems, and creative problem-solving.  
+🔹 Currently learning Java, Python. 
+🔹 Open to collaboration on open-source and innovative projects.  
+
+📌 Let’s connect → dasaheli16@gmail.com
+
 
 <!---
 ellie-belly-jelly/ellie-belly-jelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
